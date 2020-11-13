@@ -5,7 +5,8 @@ import {
   useFrame,
 } from "react-three-fiber";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
-import model from "./assets/k-cup-exploded-02.glb";
+// import model from "./assets/k-cup-exploded-02.glb";
+import model from "./assets/something-02.glb";
 import gsap from 'gsap';
 
 export default function Model() {
